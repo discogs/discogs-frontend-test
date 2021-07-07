@@ -23,7 +23,7 @@ The finished solution **should**:
   required.
 - The interface should have a loading state and handle potential API errors.
 - Implement good WAI-ARIA practices where applicable.
-- Contain notes about your decision
+- Contain notes about decisions you made.
 
 ## Submission
 To submit your solution:
