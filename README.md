@@ -15,6 +15,8 @@ The finished solution **should**:
   - year,
   - catalog number
 - Each card should act as a link to the Release on Discogs (eg. `https://www.discogs.com/release/{id}`)
+- Be responsive.
+- Allow cards to be sorted by release title or release year.
 - Follow the general wireframe layout as above. Do feel free to make it look better if
   you can.
 - Have unit/integration tests where you think they matter. 100% coverage is not
