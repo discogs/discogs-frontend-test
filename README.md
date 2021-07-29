@@ -1,3 +1,5 @@
+# Discogs Frontend Exercise
+
 The goal of this exercise is to build an interface that displays a responsive
 grid of Releases fetched from an API that can be sorted by either Release title
 or Release year.
