@@ -33,5 +33,6 @@ To submit your solution:
 - [Invite](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
   **mrlarner** and **romeovs** as contributors
 - Let us know you have finished the solution
+- Be sure to write useful commit messages
 
 Please reach out to me with any questions!
