@@ -26,6 +26,7 @@ The finished solution **should**:
 - The interface should have a loading state and handle potential API errors.
 - Implement good WAI-ARIA practices where applicable.
 - Contain notes about decisions you made.
+- Avoid using too many frameworks.
 
 ## Submission
 To submit your solution:
