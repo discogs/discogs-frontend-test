@@ -35,5 +35,6 @@ To submit your solution:
   **mrlarner** and **romeovs** as contributors
 - Let us know you have finished the solution
 - Be sure to write useful commit messages
+- If you can host the solution somewhere we can test it, that's a plus
 
 Please reach out to me with any questions!
