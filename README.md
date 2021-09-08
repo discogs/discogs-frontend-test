@@ -28,7 +28,13 @@ The finished solution **should**:
 - Contain notes about decisions you made.
 - Avoid using too many frameworks, we're interested in seeing how you would
   build this interface, not your knowledge of frameworks.
+- Make good use of the web platform. We want to see semantic html, idiomatic
+  JavaScript, etc.
+
+## Tips
 - Keep it simple!
+- Using starters like `create-react-app` is ok, but make sure to remove code
+  you are not using.
 
 ## Submission
 To submit your solution:
