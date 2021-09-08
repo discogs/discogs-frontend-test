@@ -20,7 +20,7 @@ The finished solution **should**:
 - Be responsive.
 - Allow cards to be sorted by release title or release year.
 - Follow the general wireframe layout as above. Do feel free to make it look better if
-  you can.
+  you can, but don't spend too much time on styling.
 - Have unit/integration tests where you think they matter. 100% coverage is not
   required.
 - The interface should have a loading state and handle potential API errors.
