@@ -1,18 +1,27 @@
 .App {
-    font-family: sans-serif;
-    text-align: center;
-  }
-  
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    grid-gap: 10px;
-  }
-  
-  .grid-item {
-    //padding-top: 100%;
-    //padding: 1px;
-    background-color: #eaeaea;
-    border: 1px solid rgb(133, 133, 133);
-  }
-  
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 10px;
+}
+
+.thumb {
+  //padding-top: 100%;
+  //padding: 1px;
+  width: 100%;
+  background-color: #eaeaea;
+  //border: 1px solid rgb(133, 133, 133);
+  margin: 9px 9px;
+}
+
+.release-title {
+  text-align: left;
+}
+
+.release-artist {
+  text-align: left;
+}
